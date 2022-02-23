@@ -2,7 +2,7 @@
 
 My name is Marco and I'm a software developer and technology enthusiast.
 
-I've been playing with technology for over 30 years and still love to learn new things and build cool stuff. Oh and I also like to play some metal 🤘 on my guitar 🎸.
+I've been playing with technology for over 20 years and still love to learn new things and build cool stuff. Oh and I also like to play some metal 🤘 on my guitar 🎸.
 
 ### Stuff I'm working with
 
